@@ -1,6 +1,6 @@
 ---
 layout: post #_layouts의 post.html 
-title: <b>테스트 해보기</b>
+title: 테스트 해보기
 date: 2024-02-18 14:00:00 +0900 #_posts의 markdown 날짜와 무조건 일치해야 한다.
 description: Git page 테스트 해보기 # 내용 요약 (생략 가능)
 img: kotlin-logo.png # assets/img의 img이름
@@ -35,6 +35,9 @@ Kotlin
 - Null Safety ( ` : ?` ) 
 
 Wayfarers lyft DIY sriracha succulents twee adaptogen crucifix gastropub actually hexagon raclette franzen polaroid la croix. Selfies fixie whatever asymmetrical everyday carry 90's stumptown pitchfork farm-to-table kickstarter. Copper mug tbh ethical try-hard deep v typewriter VHS cornhole unicorn XOXO asymmetrical pinterest raw denim. Skateboard small batch man bun polaroid neutra. Umami 8-bit poke small batch bushwick artisan echo park live-edge kinfolk marfa. Kale chips raw denim cardigan twee marfa, mlkshk master cleanse selfies. Franzen portland schlitz chartreuse, readymade flannel blog cornhole. Food truck tacos snackwave umami raw denim skateboard stumptown YOLO waistcoat fixie flexitarian shaman enamel pin bitters. Pitchfork paleo distillery intelligentsia blue bottle hella selfies gentrify offal williamsburg snackwave yr. Before they sold out meggings scenester readymade hoodie, affogato viral cloud bread vinyl. Thundercats man bun sriracha, neutra swag knausgaard jean shorts. Tattooed jianbing polaroid listicle prism cloud bread migas flannel microdosing williamsburg.
+
+![my img](/assets/img/up.jpg)
+![I and My friends](/assets/img/we-in-rest.jpg)
 
 {% highlight ruby %}
 def print_hi(name)
