@@ -7,9 +7,45 @@ img: /GitHubPages/github-pages.jpg # assets/img의 img이름
 fig-caption: GitHub Pages 로고 입니다. # 이미지에 대한 설명 (생략 가능)
 tags: [GitHub, Backend, java]
 ---
-## GitHub Pages란?
-GitHub Pages는 GitHub의 리포지토리에서 파일을 직접 가져와 웹 사이트를 게시하는 정적(Static) 사이트 호스팅 서비스이다.
+## Jekyll 이란?
+1. GitHub의 설립자 중 하나가 Ruby를 이용해 만든 정적 웹 생성기이다.
+2. GitHub Pages는 Jekyll을 사용하여 웹사이트를 호스팅 할 수 있다.
 
-## GitHub Pasges 준비물
-* GitHub Repository
-* Jekyll
+## Ruby 설치하기 for Windows
+1. Google에서 RubyInstaller 검색
+2. Download 클릭
+
+* [Download 바로가기](https://rubyinstaller.org/downloads/)
+<br>
+![clone](/assets/img/GitHubPages/num8.png)
+1. 사진과 같은 페이지로 이동이 됐다면
+2. WITH DEVKIT의 제일 위에 installer 클릭
+<br><br>
+<hr>
+
+## Ruby Installer Setup
+* Page 1
+  * Select Setup install Mode 에서
+  * Install for me only (recommended) 클릭
+![clone](/assets/img/GitHubPages/ruby1.png)  
+
+* page 2
+  * I accept the License 선택 후 Next
+![clone](/assets/img/GitHubPages/ruby2.png)  
+
+* page 3
+  * Install 클릭
+![clone](/assets/img/GitHubPages/ruby3.png)
+
+* page 4
+  * Next 클릭
+![clone](/assets/img/GitHubPages/ruby4.png)
+
+* page 5
+  * 업로드
+![clone](/assets/img/GitHubPages/ruby5.png)
+
+* page 6
+  * Ruby 설치완료
+![clone](/assets/img/GitHubPages/ruby6.png)
+<hr>

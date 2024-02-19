@@ -13,6 +13,7 @@ GitHub Pages는 GitHub의 리포지토리에서 파일을 직접 가져와 웹 �
 ## GitHub Pasges 준비물
 * GitHub Repository
 * Jekyll
+* 템플릿 다운로드 및 적용하기
 
 ## GitHub 저장소 만들기
 ![createRepository](/assets/img/GitHubPages/num1.png)
@@ -63,7 +64,7 @@ index.html에 입력한 Hello World!! 확인 완료
 <br><br>
 
 이렇게 GitHub 사이트를 이용한 정적(Static) 웹사이트를 만들어 보았다.<br>
-[GitHub Pages 만들기 (2)](http://127.0.0.1:4000/GitHub-Pages-Two/)
+[GitHub Pages 만들기 (2)](https://mad-cost.github.io/GitHub-Pages-Two/)
 
 
 
