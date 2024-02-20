@@ -1,3 +1,4 @@
+[바로가기](https://mad-cost.github.io/)
 # Flexible-Jekyll is a simple and clean theme for Jekyll
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
